@@ -5,7 +5,7 @@ Project Done by Herish Chaudray
 1. Feature Engineering
 2. Prediction Model
 
-**Feature Engineering**
+# **Feature Engineering**
 
 We have used Coefficient Feature Selection to select the features and done feature engineering by identfying the redundant data and removed null datas and further make   it as a subset to use for prediction.
 
@@ -13,7 +13,7 @@ We have used Coefficient Feature Selection to select the features and done featu
 <img width="880" alt="heatmap" src="https://user-images.githubusercontent.com/87555721/218258362-de876ec8-9ccf-41ab-b14a-60980cdd339d.PNG">
 
 
-**Prediction**
+# **Prediction**
 # Logistic Regression Correlation Graphs
 
 ![log_reg1_prev_medal](https://user-images.githubusercontent.com/87555721/218258480-6612e017-a767-465d-bff3-2bdb6be942a7.png)
