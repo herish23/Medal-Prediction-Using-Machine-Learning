@@ -26,7 +26,9 @@ We have used Coefficient Feature Selection to select the features and done featu
 
 
 Prediction has been done using Logistic Regression where the data was split in ratio 70:30
+
 Dataset used can be got here https://drive.google.com/uc?export=download&id=1L3YAlts8tijccIndVPB-mOsRpEpVawk7 
+
 Dataset credit @dataquestio
 
 # Output
